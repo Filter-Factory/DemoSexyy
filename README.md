@@ -1,2 +1,1 @@
-# DemoSexyy
- 
+# camera_kit_demo
